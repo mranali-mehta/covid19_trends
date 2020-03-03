@@ -18,7 +18,7 @@ dash-renderer==1.2.4
 dash-table==4.6.0
 decorator==4.3.0
 dill==0.2.8.2
-Django==1.9
+Django==1.11.28
 Elixir==0.7.1
 en-core-web-sm==2.1.0
 Flask==1.0.2
